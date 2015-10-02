@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicClass", "LogicClass\LogicClass.csproj", "{6E0BF60C-9458-4F69-89EA-0BCCAFCE045B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAStart", "CAStart\CAStart.csproj", "{1A78F482-B3F0-4349-B6A2-273E02E5B121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E0BF60C-9458-4F69-89EA-0BCCAFCE045B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0BF60C-9458-4F69-89EA-0BCCAFCE045B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0BF60C-9458-4F69-89EA-0BCCAFCE045B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0BF60C-9458-4F69-89EA-0BCCAFCE045B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A78F482-B3F0-4349-B6A2-273E02E5B121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A78F482-B3F0-4349-B6A2-273E02E5B121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A78F482-B3F0-4349-B6A2-273E02E5B121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A78F482-B3F0-4349-B6A2-273E02E5B121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
